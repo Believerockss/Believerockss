@@ -1,3 +1,6 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+</p>
+
 ![Header](./github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Believe Paudel</h1>
